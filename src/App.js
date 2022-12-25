@@ -113,7 +113,7 @@ function App() {
     };
 
     /**
-     * init comet chat.
+     * init cometchat .
      */
     const initCometChat = async () => {
         const { CometChat } = await import('@cometchat-pro/chat');
